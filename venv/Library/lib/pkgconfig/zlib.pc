@@ -1,0 +1,13 @@
+prefix=D:/interneship/customer personality anlaysis/venv/Library
+exec_prefix=D:/interneship/customer personality anlaysis/venv/Library
+libdir=D:/interneship/customer personality anlaysis/venv/Library/lib
+sharedlibdir=D:/interneship/customer personality anlaysis/venv/Library/lib
+includedir=D:/interneship/customer personality anlaysis/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
