@@ -1,1 +1,1 @@
-## first project of my github
+this project is customer personality analysisis
